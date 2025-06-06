@@ -11,9 +11,10 @@
 🎓 Pursuing **Software Engineering** from **Aptech**  
 💻 Currently focusing on Backend Development: `PHP`, `MySQL`, `HTML`, `CSS`, `JS`, `XML`, `JSON`, `SEO` etc
 
+<img src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-530.gif" width="20%" margin-top="20px" align="right" />
+
 🔗 [GitHub Portfolio](https://github.com/xr_mortal1212)
 
-<img src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-530.gif" width="20%" margin-top="20px" align="right" />
 
 </div>
 
