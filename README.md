@@ -5,17 +5,15 @@
 
 <!--  PROFILE HEADER RHS IMAGE  -->
 <picture>
-<img src="https://media.tenor.com/QXP8Y1dqCzwAAAAM/dedsec-nsfw.gif"  align="right" width="20%" alt="rimshasajid436" />
+<img src="https://media.tenor.com/QXP8Y1dqCzwAAAAM/dedsec-nsfw.gif"  align="right" width="20%" alt="xrmortal1212" />
 </picture>
 
 <!--  PROFILE HEADER INTRO (LHS)  -->
 Hello World! 👋
 
-🔭 I Have Completed A Virtual Internship in Web Development at Growintern.
+💻  Currently, I’m pursing a Software Engineering from Aptech, where I am currently learning backend developement **PHP,MYSQL,HTML,CSS,JS,XML,JSON,SEO etc.
 
-💻 And Currently, I’m pursing a Software Engineering from Aptech, where I am currently learning backend developement **PHP,Laravel,C++,Flutter,Dart,Phython etc.
-
-🌟  You can find all my projects on Github [https://github.com/xr_mortal1212](https://github.com/RIMSHASAJID436)
+🌟  You can find all my projects on Github [https://github.com/xr_mortal1212](https://github.com/xrmortal1212)
 
 <!--  EXCITED CHARACTERS  -->
 <img src="https://media.tenor.com/6wEOw2iNcB4AAAAM/dedsec.gif" width="75">&nbsp;
@@ -34,13 +32,14 @@ Hello World! 👋
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 <a href="https://searchengineland.com/guide/what-is-seo" target="_blank" rel="noreferrer"> <img src="https://searchengineland.com/wp-content/seloads/2014/08/seo-idea-lightbulbs-ss-1920.jpg" alt="seo" width="40" height="20"/> </a>
 </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://ahex.co/wp-content/uploads/2022/06/png-clipart-jquery-logo-web-development-jquery-ui-javascript-computer-icons-jqlogo-emblem-label-thumbnail.png" alt="jquery" width="40" height="35"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqf-Kqyd8dSvhhufDguf9CsTZStGVsoSQ5dg&s" alt="bootstrap" width="40" height="35"/> </a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://ahex.co/wp-content/uploads/2022/06/png-clipart-jquery-logo-web-development-jquery-ui-javascript-computer-icons-jqlogo-emblem-label-thumbnail.png" alt="jquery" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqf-Kqyd8dSvhhufDguf9CsTZStGVsoSQ5dg&s" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://gsap.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcUoG_7iACY_tbK5bD7SUpnmbfkOvBkQD1tQ&s" alt="GSAP" width="40" height="40"/> </a>
 
 
 
 <!--  DIVIDER  -->
-<img align="left" width="30%" src=https://cdn.dribbble.com/userupload/41943848/file/original-4d5f6449a01563f617d0c873a8fd9a7d.gif">
+<img align="left" width="30%" src="https://cdn.dribbble.com/userupload/41943848/file/original-4d5f6449a01563f617d0c873a8fd9a7d.gif">
 
 </br>
 
