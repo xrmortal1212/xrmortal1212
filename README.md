@@ -57,5 +57,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/8ivHg9AN6ZQAAAAM/ayanokoji.gif" width="30%" />
+  <img src="https://i.pinimg.com/originals/f7/08/65/f708652084b201c1ab3f5351d45a5b70.gif" width="30%" />
 </p>
