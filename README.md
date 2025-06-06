@@ -6,7 +6,7 @@
 <!-- HEADER SECTION -->
 <div align="center">
 
-<img src="https://media.tenor.com/QXP8Y1dqCzwAAAAM/dedsec-nsfw.gif" width="20%" align="right" />
+<img src="https://media.tenor.com/QXP8Y1dqCzwAAAAM/dedsec-nsfw.gif" width="20%" margin-top="20px" align="right" />
 
 # Hello World! 👋  
 🎓 Pursuing **Software Engineering** from **Aptech**  
