@@ -6,7 +6,7 @@
 <!-- HEADER SECTION -->
 <div align="center">
 
-<img src="https://media.tenor.com/QXP8Y1dqCzwAAAAM/dedsec-nsfw.gif" width="20%" margin-top="20px" align="right" />
+<img src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-530.gif" width="20%" margin-top="20px" align="right" />
 
 # Hello World! 👋  
 🎓 Pursuing **Software Engineering** from **Aptech**  
