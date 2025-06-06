@@ -39,7 +39,7 @@ Hello World! 👋
 
 
 <!--  DIVIDER  -->
-<img align="left" width="30%" margin="25px" src="https://cdn.dribbble.com/userupload/41943848/file/original-4d5f6449a01563f617d0c873a8fd9a7d.gif">
+<img align="left" width="30%" style="margin:30px;" src="https://cdn.dribbble.com/userupload/41943848/file/original-4d5f6449a01563f617d0c873a8fd9a7d.gif">
 
 </br>
 
