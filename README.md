@@ -56,5 +56,4 @@ Hello World! 👋
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rk4328417@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4A90E2?style=for-the-badge&logo=polywork&logoColor=white)](https://xrmortal1212.github.io/Portfolio/)
 <br>
-
-#### 🚀 Let's connect and collaborate!   <img src="https://media.tenor.com/8ivHg9AN6ZQAAAAM/ayanokoji.gif" width="60" height="60"/>
+ <img src="https://media.tenor.com/8ivHg9AN6ZQAAAAM/ayanokoji.gif" width="30%" />
