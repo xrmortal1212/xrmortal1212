@@ -13,7 +13,7 @@
 
 
 
-🔗 [GitHub Portfolio](https://github.com/xr_mortal1212)
+🔗 [GitHub Portfolio]([https://github.com/xr_mortal1212](https://xrmortal1212.github.io/Portfolio/))
 
 
 </div>
